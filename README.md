@@ -1,4 +1,4 @@
-# Fullstack monorepo template feat. Expo, Turbo, Next.js, Convex, Clerk
+# Fullstack monorepo  feat. Expo, Turbo, Next.js, Convex, Clerk
 
 This is a modern TypeScript monorepo with AI web and native apps
 featuring:
@@ -11,4 +11,3 @@ featuring:
 - [Convex](https://convex.dev): Backend, database, server functions
 - [Clerk](https://clerk.dev): User authentication
 
-(Im using it for a game tho)
